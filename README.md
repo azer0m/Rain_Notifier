@@ -1,0 +1,1 @@
+This project is to create an iOS app that will tell me when to swap the Miata and BMW due to forecasted rain.
